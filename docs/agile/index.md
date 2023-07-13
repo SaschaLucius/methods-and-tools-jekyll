@@ -1,3 +1,9 @@
+---
+layout: default
+title: Agile
+has_children: true
+---
+
 - Scrum
 - Scaled Scrum
     - Nexus
